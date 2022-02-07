@@ -1,0 +1,481 @@
+{
+   "data":[
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 1",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)",
+            "grupo":true
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.0",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2020",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 2",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"TXT",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":false
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 3",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"DOCX",
+         "versao":{
+            "numero":"1.1",
+            "especial":false
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":true
+      },
+      {
+         "info":{
+            "nomeDoDocumento":"Nome do Contrato 4",
+            "tipoDeDocumento":"Minuta Contrato-Promessa de Compra e Venda (Unidade Serviços Corporativos)"
+         },
+         "formato":"PDF",
+         "versao":{
+            "numero":"1.1",
+            "especial":true
+         },
+         "dataDeElaboracao":"11/11/2021",
+         "versoes":""
+      }
+   ]
+}
